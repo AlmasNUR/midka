@@ -1,0 +1,179 @@
+#title {
+  background-color: lightblue;
+}
+
+.img {
+  height: 500px;
+  width: 650px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.font {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-left: 60px;
+}
+
+.font2 {
+  font-family: Architects Daughter;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-left: 60px;
+  color: white;
+}
+
+.font3 {
+  font-family: Montserrat;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  padding-left: 400px;
+  color: white;
+}
+
+#but {
+  font-size: 1.9rem;
+}
+
+#what {
+  background-color: #F0F8FF;
+}
+
+.text1 {
+  font-family: Montserrat;
+  font-size: 1.2rem;
+  line-height: 2;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.whatmask {
+  font-family: Montserrat;
+  text-align: center;
+}
+
+.exam {
+  font-family: Montserrat;
+  text-align: center;
+}
+
+.whymaskneed {
+  font-family: Architects Daughter;
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: bold;
+}
+
+.one {
+  border: 15px solid lightblue;
+}
+
+.two {
+  border: 15px solid lightblue;
+}
+
+.three {
+  border: 15px solid lightblue;
+}
+
+.four {
+  border: 15px solid lightblue;
+}
+
+#video {
+  background-color: #E0FFFF;
+}
+
+.blue {
+  background-image: url("blue.jpg");
+}
+
+.cc {
+  background-color: ;
+}
+
+.contact {
+  background-color: #212529;
+}
+
+.text2 {
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 1.9rem;
+  color: white;
+}
+
+.insta {
+  width: 180px;
+  height: 180px;
+  background-color: #212529;
+  position: absolute;
+  left: 800px;
+  top: 1780px;
+}
+
+li {
+  font-size: 1.5vw;
+}
+
+td {
+  padding: 3px;
+}
+
+table,
+th,
+td {
+  border: 0.9px solid blue;
+}
+
+.terralinktext {
+  border: 0.9px solid blue;
+  padding: 5px;
+}
+
+hr {
+  background-color: blue;
+  height: 2px
+}
+
+.background {
+  background-color: lightblue;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.background2 {
+  margin-right: 0;
+  background-color: lightblue;
+  position: absolute;
+  top: 700px;
+}
+
+#picc {
+  height: 700px;
+  width: 700px;
+}
+
+.section1 {
+  border: 4px solid blue;
+  padding-left: 60px;
+  padding-right: 60px;
+  background-color: lightblue;
+}
+
+.pic1 {
+  width: 370px;
+  height: 340px;
+  position: absolute;
+  left: 500px;
+  top: 70px;
+}
+
+.background3 {
+  background-color: lightblue;
+}
